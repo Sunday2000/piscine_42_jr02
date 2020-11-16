@@ -15,7 +15,7 @@ void ft_print_array(int array[], int index)
     }
 }
 
-int my_loop(int prev_values[], int i, int value)
+void my_loop(int prev_values[], int i, int value)
 {
     int index;
 
